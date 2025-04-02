@@ -1,3 +1,3 @@
 # 🎨 Color Picker
 
-Follow the instructions in the workshop to finish the assignment!
+## Netlify App: https://block25-equanimity.netlify.app
